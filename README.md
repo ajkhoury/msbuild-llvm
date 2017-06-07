@@ -1,3 +1,3 @@
-# msbuild-llvm-5.0.0 
+# msbuild-llvm
 
 Fixes a small bug in the LLVM MSBuild targets
